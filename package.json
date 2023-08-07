@@ -1,0 +1,21 @@
+{
+  "name": "@ahoemi/aoi.handler",
+  "version": "1.0.1",
+  "description": "An unofficial aoi.js extension to load the files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/aho-emi/-ahoemi-aoi.handler"
+},
+  "keywords": ["aoi.js", "handler"],
+  "author": "ahoemi",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.12.1",
+    "node-fetch": "^3.2.6"
+  }
+}
