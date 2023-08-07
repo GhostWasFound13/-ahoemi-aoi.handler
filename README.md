@@ -8,6 +8,11 @@
 <p>
 An unofficial aoi.js extension which helps you to load your files more clearly and clean way.
 </p>
+<h2 align="center"><strong>Installation</strong></h2>
+
+```js {3} copy
+npm i @ahoemi/aoi.handler
+```
 <h2 align="center"><strong>Setup</strong></h2>
 
 ```js {3} copy
