@@ -1,6 +1,6 @@
 {
   "name": "@ahoemi/aoi.handler",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "An unofficial aoi.js extension to load the files.",
   "main": "index.js",
   "scripts": {
